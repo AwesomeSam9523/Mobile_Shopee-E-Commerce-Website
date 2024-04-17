@@ -42,7 +42,7 @@
     </div>
 </footer>
 <div class="copyright text-center bg-dark text-white py-2">
-    <p class="font-rale font-size-14">&copy; Copyrights 2020. Desing By <a href="#" class="color-second">Daily Tuition</a></p>
+    <p class="font-rale font-size-14">&copy; Copyrights 2024. Design By <a href="#" class="color-second">Shreya Saihgal</a></p>
 </div>
 <!-- !start #footer -->
 
