@@ -6,8 +6,8 @@ class DBController
     // Database Connection Properties
     protected $host = 'localhost';
     protected $user = 'root';
-    protected $password = '';
-    protected $database = "shopee";
+    protected $password = 'root';
+    protected $database = "trashion";
 
     // connection property
     public $con = null;

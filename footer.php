@@ -6,11 +6,11 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-12">
-                <h4 class="font-rubik font-size-20">Mobile Shopee</h4>
+                <h4 class="font-rubik font-size-20">Trashion</h4>
                 <p class="font-size-14 font-rale text-white-50">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus, deserunt.</p>
             </div>
             <div class="col-lg-4 col-12">
-                <h4 class="font-rubik font-size-20">Newslatter</h4>
+                <h4 class="font-rubik font-size-20">Newsletter</h4>
                 <form class="form-row">
                     <div class="col">
                         <input type="text" class="form-control" placeholder="Email *">
@@ -35,7 +35,7 @@
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">My Account</a>
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Order History</a>
                     <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Wish List</a>
-                    <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Newslatters</a>
+                    <a href="#" class="font-rale font-size-14 text-white-50 pb-1">Newsletters</a>
                 </div>
             </div>
         </div>
